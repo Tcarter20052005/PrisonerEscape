@@ -1,0 +1,8 @@
+class Health
+{
+  
+  Health()
+  {
+    
+  }
+}
